@@ -1,4 +1,4 @@
-# Pick Up Sport
+# Playbook
 
 This is a React-based web application for creating and joining local sports events. Users can create an account, create events, and search for events near their location.
 
